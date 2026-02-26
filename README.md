@@ -1,6 +1,6 @@
 # Room-ac-performance-model
 
-This repository provides a physics-based performance calculation model for residential room air conditioners (RACs).
+This repository provides a physics-based performance calculation model for residential split-type air-source heat pumps (ASHPs).
 
 The model estimates cooling and heating performance (capacity, COP, and power consumption) under arbitrary operating conditions based on manufacturer catalog data.
 
